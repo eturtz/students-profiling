@@ -1,0 +1,52 @@
+﻿id,gender,parentsStatus,Hobby,swimming,drawing,sailing,computers,fencing,horseRiding,tennis,football,dancing,basketball,surfing,windsurfing,aeromodelling,space,guitar,martialArts,judo,chinaJapanCulture,robotics,scouts,workingYouth,drums,recorder,traveling,mountainClimbing,snowboarding,design,likesStudying,studyAlone,activityTaken,isAthletic,artisticSkills,thinkingSkills,physicalSkills,helpsWith,helpsAtHome,activityWithFamily,isActiveWithFamily,idol,volunteers,likesGaming,hasAccessibilityIssue,hasADHD,hasADD,needsReading,needsExtraTime,MT,V,A
+1,male,singleParent,swimming,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,alone,1,swimming,1,0,0,1,walkingDog,1,traveling,1,NoaKirel,1,1,0,0,0,0,0,0.3,0.17,0.13
+2,female,married,"
+drawing",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,alone,1,running,1,1,0,0,pickupSibling,1,traveling,1,Sting,1,1,0,1,0,0,0,0.31,0.29,0.16
+3,male,seperated,sailing,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,alone,1,sailing,1,0,0,0,cleanHome,1,traveling,1,BenGurion,1,1,0,0,0,0,0,0.22,0.17,0.3
+4,male,seperated,computers,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,group,0,none,0,0,1,0,noHelp,0,traveling,1,HannahSzenes,0,1,1,0,0,0,0,0.16,0.29,0.15
+5,female,married,computers,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,group,0,running,1,0,0,0,noHelp,0,visitFamily,1,HarelSkaat,1,1,0,0,0,0,0,0.27,0.12,0.3
+6,male,married,fencing,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,group,0,fencing,1,1,0,0,groceries,1,none,0,Miri Mesika,1,1,0,1,0,0,0,0.18,0.24,0.29
+7,male,seperated,horse riding,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,alone,1,horse riding,1,0,1,0,walkingDog,1,none,0,Barack Obama,1,0,0,1,0,0,0,0.15,0.17,0.3
+8,male,seperated,tennis,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,alone,1,tennis,1,0,1,0,cleaning,1,none,0,Ilan Ramon,0,1,0,0,0,0,0,0.3,0.27,0.31
+9,female,seperated,football,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,group,0,football,1,0,0,1,cleaning,1,traveling,1,Elon Musk,1,1,0,0,1,0,0,0.12,0.33,0.31
+10,male,married,football,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,group,0,football,1,0,0,1,dishes,1,Hiking,1,Bill Gates,0,1,0,1,0,0,0,0.32,0.12,0.24
+11,female,married,tennis,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,alone,1,tennis,1,0,0,1,dishes,1,goingToRestaurants,1,Bibi,0,0,1,0,0,0,0,0.31,0.19,0.21
+12,female,married,dancing,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,alone,1,dancing,1,0,0,1,noHelp,0,bowling,1,Yair Lapid,1,0,1,0,0,0,0,0.3,0.29,0.28
+13,male,married,horse riding,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,group,0,horse riding,1,1,0,0,noHelp,0,gameNight,1,Yitzhak Navon,0,0,0,0,0,1,0,0.17,0.15,0.32
+14,male,singleParent,drawing,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,alone,1,none,0,1,0,0,groceries,1,videoGames,1,Yitzhak Rabin,1,1,0,0,0,1,0,0.15,0.33,0.14
+15,female,fatherless,basketball,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,alone,1,basketball,1,0,0,1,walkingDog,1,videoGames,1,Leah Goldberg,0,1,0,0,0,0,1,0.16,0.29,0.15
+16,female,motherless,basketball,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,group,0,basketball,1,0,0,1,cleaning,1,videoGames,1,Michael Jackson,0,1,0,0,0,0,0,0.29,0.14,0.19
+17,female,adopted,computers,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,group,0,none,0,0,1,0,walkingDog,1,none,0,Leonardo da Vinci,1,0,0,1,0,0,0,0.27,0.29,0.27
+18,male,married,surfing,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,alone,1,surfing,1,1,0,0,cleaning,1,none,0,Leonardo DiCaprio,1,1,0,0,0,0,0,0.15,0.33,0.26
+19,male,married,windsurfing,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,alone,1,windsurfing,1,0,1,0,cleaning,1,gameNight,1,Bill Clinton,1,1,0,0,0,0,0,0.3,0.23,0.11
+20,female,seperated,aeromodelling,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,group,0,dancing,1,0,0,1,dishes,1,videoGames,1,Bibi,1,1,0,0,0,0,0,0.21,0.18,0.25
+21,male,married,space,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,alone,1,none,0,0,1,0,gardening,1,videoGames,1,Tom Hanks,1,1,0,1,0,0,0,0.19,0.15,0.29
+22,male,married,guitar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,alone,1,none,0,1,0,0,noHelp,0,none,0,Julia Roberts,1,1,0,1,0,0,0,0.12,0.3,0.29
+23,female,seperated,tennis,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,alone,1,tennis,1,0,0,1,noHelp,0,none,0,Gidi Gov,1,1,0,0,0,0,0,0.27,0.15,0.21
+24,female,seperated,martial Arts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,alone,1,Martistial artists,1,0,0,1,groceries,1,traveling,1,Alon Hillel,0,1,0,0,1,0,0,0.31,0.24,0.26
+25,male,singleParent,judo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,alone,1,judo,1,0,0,1,walkingDog,1,Hiking,1,Menachem Begin,0,1,0,0,0,1,0,0.27,0.3,0.19
+26,male,singleParent,judo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,alone,1,judo,1,1,0,0,cleaning,1,goingToRestaurants,1,Shimon Peres,1,0,0,0,0,0,0,0.13,0.17,0.29
+27,female,married,china-japan culture,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,alone,1,none,0,0,0,0,walkingDog,1,none,0,Naomi Shemer,1,1,0,0,0,0,0,0.18,0.33,0.11
+28,male,married,drawing,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,alone,1,none,0,0,1,0,cleaning,1,none,0,Nelson Mandela,0,0,0,0,0,1,0,0.2,0.13,0.3
+29,female,married,space,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,group,0,cycling,1,0,0,0,cleaning,1,traveling,1,Shimon Peres,1,1,0,0,0,1,0,0.3,0.21,0.12
+30,male,seperated,robotics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,alone,1,swimming,1,1,0,0,dishes,1,Hiking,1,Yitzhak Rabin,1,1,0,0,0,0,0,0.22,0.27,0.13
+31,female,seperated,scouts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,group,0,swimming,1,0,1,0,gardening,1,goingToRestaurants,1,Elon Musk,1,1,0,0,0,0,0,0.28,0.16,0.21
+32,female,married,working youth,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,alone,1,archery,1,0,1,0,walkingDog,1,bowling,1,Bill Clinton,1,1,0,0,0,0,0,0.17,0.33,0.21
+33,female,married,tennis,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,alone,1,tennis,1,0,0,1,pickupSibling,1,gameNight,1,Hanna Maron,0,1,0,0,0,0,0,0.28,0.27,0.17
+34,male,married,football,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,group,0,football,1,0,0,1,cleanHome,1,football,1,Tzipi Shavit,1,1,0,0,0,0,0,0.21,0.2,0.31
+35,male,seperated,scouts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,group,0,none,0,0,0,1,noHelp,0,basketball,1,Shiri Maimon,0,1,0,0,0,0,0,0.09,0.16,0.21
+36,male,seperated,football,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,group,0,football,1,0,0,1,noHelp,0,swimming,1,Miri Mesika,1,1,0,1,0,0,0,0.23,0.24,0.28
+37,female,seperated,working youth,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,alone,1,gym,1,1,0,0,groceries,1,swimming,1,Mahatma Gandhi,1,1,0,1,0,0,0,0.13,0.19,0.22
+38,female,married,guitar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,alone,1,gym,1,1,0,0,walkingDog,1,swimming,1,Martin Luther King,0,1,0,0,0,0,1,0.32,0.07,0.14
+39,male,married,drums,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,alone,1,Tai chi,1,0,0,1,cleaning,1,traveling,1,Leah Goldberg,1,1,0,0,0,0,0,0.09,0.25,0.22
+40,female,married,recorder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,group,0,Tai chi,1,0,0,1,noHelp,0,goingToRestaurants,1,Miri Regev,0,0,0,0,0,0,0,0.27,0.24,0.09
+41,female,seperated,drums,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,group,0,none,0,1,0,0,noHelp,0,traveling,1,Moran Atias,1,0,0,0,0,0,0,0.28,0.31,0.31
+42,female,adopted,surfing,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,alone,1,surfing,1,1,0,0,groceries,1,traveling,1,Yoni Rechter,1,1,0,0,0,0,0,0.1,0.22,0.26
+43,male,singleParent,traveling,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,alone,1,running,1,0,1,0,walkingDog,1,Hiking,1,Ariel Zilber,1,1,0,0,0,0,0,0.32,0.19,0.2
+44,female,singleParent,mountain climbing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,group,0,mountain climbing,1,0,0,1,cleaning,1,goingToRestaurants,1,Yonatan Netanyahu,0,1,0,0,0,0,0,0.15,0.13,0.31
+45,male,married,snowboarding,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,group,0,snowboarding,1,0,1,0,walkingDog,1,bowling,1,Golda Meir,1,0,0,0,0,0,0,0.29,0.19,0.12
+46,male,married,surfing,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,group,0,surfing,1,0,0,1,cleaning,1,gameNight,1,Tzufit Grant,1,1,0,0,1,0,0,0.21,0.11,0.27
+47,male,married,drawing,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,group,0,none,0,0,0,1,cleaning,1,reading,1,Marie Antoinette,1,1,0,0,0,0,0,0.13,0.23,0.22
+48,female,married,design,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,group,0,none,0,0,0,1,dishes,1,gameNight,1,Shelly Yachimovich,0,1,0,0,0,0,0,0.16,0.15,0.26
+49,male,married,design,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,alone,1,running,1,0,0,1,playWithSiblings,1,none,0,Moshe Alafi,1,1,0,0,0,0,0,0.26,0.29,0.29
+50,female,married,judo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,alone,1,judo,1,0,0,1,cleaning,1,none,0,Albert Einstein,1,1,0,0,0,0,0,0.29,0.15,0.23
